@@ -221,5 +221,5 @@ input[type="range"] {
   cursor: pointer;
   font-size: 1.2rem;
   background: rgb(41, 41, 41);
-  color: white;
+  color: #fff;
 }
